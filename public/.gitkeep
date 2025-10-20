@@ -1,0 +1,2 @@
+# Astro will output built files to the dist directory
+# This public directory is for static assets that are copied as-is
